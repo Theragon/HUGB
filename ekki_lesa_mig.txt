@@ -2,3 +2,8 @@
 while(true){
 	cout << "Óli Noob" << endl;
 {
+
+if(halli commits)
+{
+	logi reads
+}
